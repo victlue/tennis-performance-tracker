@@ -80,6 +80,7 @@ JWT_SECRET=supersecret_jwt_key
 PORT=5000
 
 ## Project Structure
+```
 tennis-performance-tracker/
 ├─ server/
 │   ├─ .env                  // environment variables
@@ -110,7 +111,7 @@ tennis-performance-tracker/
         │   ├─ MatchList.js
         │   └─ NewMatchForm.js
         └─ ...
-
+```
 ## Homepage Display
 ![Homepage View](./screenshots/Homepage.png)
 
