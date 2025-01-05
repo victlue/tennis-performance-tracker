@@ -111,6 +111,6 @@ tennis-performance-tracker/
         │   └─ NewMatchForm.js
         └─ ...
 
-## Screenshot
+## Homepage Display
 ![Homepage View](./screenshots/Homepage.png)
 
